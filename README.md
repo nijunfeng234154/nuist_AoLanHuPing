@@ -1,0 +1,2 @@
+# nuist_AoLanHuPing
+小脚本修复前人代码可能存在的小bug
